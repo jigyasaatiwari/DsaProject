@@ -27,3 +27,8 @@ Start the application by the below command
 ```
 streamlit run app.py
 ```
+
+Checkout the app at 
+```
+https://dsaproject.streamlit.app/
+```
